@@ -1,2 +1,1 @@
-# NewApp
-Sitios de noticias
+# NewsApp
